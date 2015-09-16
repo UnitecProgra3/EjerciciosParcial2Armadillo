@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Celular.h" open="0" top="0" tabpos="0">
+		<Cursor position="78" topLine="0" />
+	</File>
+	<File name="Evaluador.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="4442" topLine="183" />
+	</File>
+	<File name="Evaluador.h" open="1" top="0" tabpos="2">
+		<Cursor position="539" topLine="0" />
+	</File>
+	<File name="NodoBinario.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="56" topLine="0" />
+	</File>
+	<File name="NodoBinario.h" open="1" top="0" tabpos="4">
+		<Cursor position="185" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="3013" topLine="112" />
+	</File>
+</CodeBlocks_layout_file>

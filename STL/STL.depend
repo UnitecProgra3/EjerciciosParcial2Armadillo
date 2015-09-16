@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1441211914 source:/home/turupawn/Clases/Progra3Parcial2/STL/main.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<map>
+	<set>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1441039543 source:/home/turupawn/Clases/Progra3Parcial2/ArchivosBinarios/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string.h>
+
